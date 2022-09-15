@@ -1,0 +1,22 @@
+/* General */
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.main {
+    height: 100%;
+}
+
+/* Navbar */
+.navbar-brand{
+    margin-left: 150px;
+}
+
+.navbar-text{
+    margin-right: 150px;
+}
